@@ -1,5 +1,5 @@
 # Token_price_CG
-Little script to get token price using coingecko.py
+Little script to get token price using coingecko API
 In this case we are using coingecko API, there is as limited number of request be carefull
 In this exemple we are lookinf for the price of 3 differents tokens (Levin/Weth/USDC) on the Gnosis Chain (old xDai)
 You just avec to change the adress of the token.
